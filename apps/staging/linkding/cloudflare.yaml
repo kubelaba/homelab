@@ -68,7 +68,7 @@ data:
   config.yaml: |
     # Name of the tunnel you want to run
     
-    tunnel: linkding-tunnel
+    tunnel: a789b468-5be5-4fde-8a6f-61209b2ab95c
 
     credentials-file: /etc/cloudflared/creds/credentials.json
 
